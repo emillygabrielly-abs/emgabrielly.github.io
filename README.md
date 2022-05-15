@@ -16,7 +16,7 @@
 ##
 <div>
   <h4>Acesse o Código em: </h4>
-    <a href="https://emgab-abs.atlassian.net/l/c/C1bu1Tan" target="_blank"><img src="https://img.shields.io/badge/-Confluence-%230077B5?style=for-the-badge&logo=confluence&logoColor=white" target="_blank"></a> 
+    <a href="https://emgab-abs.atlassian.net/l/c/n1b7ugmd" target="_blank"><img src="https://img.shields.io/badge/-Confluence-%230077B5?style=for-the-badge&logo=confluence&logoColor=white" target="_blank"></a> 
     <a href="https://colab.research.google.com/github/emgabrielly/emgabrielly.github.io/blob/main/IAMcyber_code.ipynb" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
 </div>
 
