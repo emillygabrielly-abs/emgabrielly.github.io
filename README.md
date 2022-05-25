@@ -5,6 +5,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&?style=flat-square)
 
 > O algoritmo consome uma API e a partir dela, identifica se os números digitados pelo usuário são correspondentes a base. Em caso de positivo, não é permitido o acesso ao usuário.
+> Slides: https://docs.google.com/presentation/d/1QcFy0CqbDDml8zDH3tynC3t6TMWXXMUw37_9hTxeGQE/edit?usp=sharing
 ##
 <div style=style="display: inline_block">
   <h4>Linguagens Utilizadas: </h4>
