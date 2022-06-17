@@ -12,15 +12,14 @@
   <h4>Linguagens Utilizadas: </h4>
   <img align="center" alt="Emy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="right" alt="imagem-ilustrativa-banco" height="150" width="180" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/seguranca-financeira-e-de-pagamento_74855-4416.jpg?t=st=1652577173~exp=1652577773~hmac=49334c664247cf353df72adee3fdd4025d99e2b936a8606b6f0a020237e7369a&w=1380">
 </div>
 
 ##
 
 <div>
   <h4>Acesse o Código em: </h4>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Confluence-%230077B5?style=for-the-badge&logo=confluence&logoColor=white" target="_blank"></a> 
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
+    <a href="https://emgab-abs.atlassian.net/l/c/0bU2CJPc" target="_blank"><img src="https://img.shields.io/badge/-Confluence-%230077B5?style=for-the-badge&logo=confluence&logoColor=white" target="_blank"></a> 
+    <a href="https://colab.research.google.com/drive/1feo1fIIyigBptqBuVA-xivRTAZHAmo2K#scrollTo=qN-i51LrAuKw" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
 </div>
 
 ##
