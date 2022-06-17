@@ -18,14 +18,14 @@
 
 <div>
   <h4>Acesse o Código em: </h4>
-    <a href="https://emgab-abs.atlassian.net/l/c/0bU2CJPc" target="_blank"><img src="https://img.shields.io/badge/-Confluence-%230077B5?style=for-the-badge&logo=confluence&logoColor=white" target="_blank"></a> 
+    <a href="https://emgab-abs.atlassian.net/l/c/Mz24MxMB" target="_blank"><img src="https://img.shields.io/badge/-Confluence-%230077B5?style=for-the-badge&logo=confluence&logoColor=white" target="_blank"></a> 
     <a href="https://colab.research.google.com/drive/1feo1fIIyigBptqBuVA-xivRTAZHAmo2K#scrollTo=qN-i51LrAuKw" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
 </div>
 
 ##
 
 <div>
-  <h4>Contribuintes: </h4>
+  <h4>Contribuintes:</h4>
 </div>
 Feito por: 
 Emilly Gabrielly Santos                         94437 |
